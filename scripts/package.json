@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@mysten/sui": "^1.16.2",
+    "dotenv": "^16.4.7",
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.1"
+  }
+}
